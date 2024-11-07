@@ -117,8 +117,8 @@
 
 
     <?php
-    include 'php/footer.php'
-    ?>
+    // include 'php/footer.php'
+    ?> 
 </body>
 
 </html>

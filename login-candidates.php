@@ -178,7 +178,7 @@ if (isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
 
   <?php
 
-  include 'php/footer.php';
+   include 'php/footer.php';
   ?>
   <!-- footer ends -->
 </body>
