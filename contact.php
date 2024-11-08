@@ -60,7 +60,7 @@
 
             <div class="section-header">
                 <h2><strong>Contact Us</strong></h2>
-                <p>VEC Chennai</p>
+                <p>JIIT NOIDA</p>
             </div>
 
         </div>
