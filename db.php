@@ -1,7 +1,7 @@
 <?php
 
 //Your Mysql Config
-$servername = "localhost:3307";
+$servername = "localhost";
 $username = "root";
 $password = "";
 $dbname = "placement_portal";

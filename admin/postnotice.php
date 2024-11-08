@@ -36,15 +36,15 @@ if (isset($_POST['submit'])) {
 
     //We check if file is saved to our temp location or not.
     if (file_exists($_FILES['resume']['tmp_name'])) {
+
+
+
+
         move_uploaded_file(
             $_FILES["resume"]["tmp_name"],
             $filename
         );
     }
-    // else {
-    //     // Set $file to an empty string if no file is uploaded
-    //     $file = '';
-    // }
 
 
 
