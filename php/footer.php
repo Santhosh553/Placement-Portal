@@ -11,7 +11,7 @@
                 </div>
                 <div class="credits">
 
-                    <a href="https://www.jiit.ac.in//">JIIT-PlacementCell</a>
+                    <a href="https://www.vec.ac.in//">VEC PlacementCell</a>
                 </div>
             </div> -->
 
