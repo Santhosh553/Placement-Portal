@@ -300,7 +300,8 @@ require_once("db.php");
     <!-- ======= Footer ======= -->
 
     <?php
-        include 'php/footer.php';
+
+    include 'php/footer.php';
     ?>
 
     <!-- End Footer -->
